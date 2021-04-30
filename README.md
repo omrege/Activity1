@@ -1,8 +1,8 @@
 # Activity1
 ## Blink an led using 2 switches
 
-
-| ON	| OFF | 
-|-------------------------|----------------------|
-|![image](https://user-images.githubusercontent.com/81291326/115894310-bf72cc80-a476-11eb-8ce4-896b0800bb22.png)|	![image](https://user-images.githubusercontent.com/81291326/115847227-5ec89d00-a440-11eb-9245-1360885950a0.png)| 
+CI and Code Quality
+| Build	| Cppcheck | Codacy |
+|-------------------------|----------------------|--------------------------|
+||	| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e26e79ddb2ba4e178f6dbd02e6c2e47c)](https://www.codacy.com/gh/omrege/Activity1/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omrege/Activity1&amp;utm_campaign=Badge_Grade)|
 

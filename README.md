@@ -1,5 +1,5 @@
-# Activity1
-## Blink an led using 2 switches
+# Embedded System Project
+## Heat Control System
 
 CI and Code Quality
 | Build	| Cppcheck | Codacy |

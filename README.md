@@ -1,5 +1,12 @@
 # Embedded System Project
 ## Heat Control System
+## Simulation
+### ON
+![image](https://user-images.githubusercontent.com/81291326/116687098-46252d80-a9d2-11eb-9658-4c83249f492d.png)
+
+### OFF
+![image](https://user-images.githubusercontent.com/81291326/116687170-605f0b80-a9d2-11eb-8994-534414444891.png)
+
 
 CI and Code Quality
 | Build	| Cppcheck | Codacy |
